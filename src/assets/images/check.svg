@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 366" width="24" height="19">
+	<title>check-regular-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #011862 } 
+	</style>
+	<path id="Layer" class="shp0" d="M414.85 11.47L151.8 274.51L55.15 177.86C50.47 173.17 42.87 173.17 38.18 177.86L9.9 206.14C5.21 210.83 5.21 218.43 9.9 223.11L143.32 356.53C148 361.22 155.6 361.22 160.29 356.53L460.1 56.72C464.79 52.03 464.79 44.44 460.1 39.75L431.82 11.47C427.13 6.78 419.53 6.78 414.85 11.47L414.85 11.47Z" />
+</svg>

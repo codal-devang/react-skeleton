@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303 180" width="32" height="19">
+	<title>caret-down-solid (1)-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #011862 } 
+	</style>
+	<path id="Layer" class="shp0" d="M23.3 6L280.6 6C298.4 6 307.3 27.5 294.7 40.1L166.1 168.8C158.3 176.6 145.6 176.6 137.8 168.8L9.2 40.1C-3.4 27.5 5.5 6 23.3 6Z" />
+</svg>

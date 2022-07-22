@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30" height="30">
+	<title>check-circle-solid-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: #3ab63e } 
+	</style>
+	<path id="Shape 1" class="shp0" d="M87 143L425 143L425 394L87 394L87 143Z" />
+	<path id="Layer" fill-rule="evenodd" class="shp1" d="M504 256C504 392.97 392.97 504 256 504C119.03 504 8 392.97 8 256C8 119.03 119.03 8 256 8C392.97 8 504 119.03 504 256ZM411.31 203.31C417.56 197.07 417.56 186.94 411.31 180.69L388.69 158.06C382.44 151.81 372.31 151.81 366.06 158.06L216 308.12L145.94 238.06C139.69 231.81 129.56 231.81 123.31 238.06L100.69 260.69C94.44 266.93 94.44 277.06 100.69 283.31L204.69 387.31C210.94 393.56 221.06 393.56 227.31 387.31L411.31 203.31Z" />
+</svg>

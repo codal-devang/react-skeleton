@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32" height="32">
+	<title>clock-solid-svg</title>
+	<style>
+		.s0 { fill: #5f6c9c } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m256 512c-141.6 0-256-114.4-256-256c0-141.6 114.4-256 256-256c141.6 0 256 114.4 256 256c0 141.6-114.4 256-256 256zm-24-256c0 8 4 15.5 10.7 19.1l96 64c11 8.2 25.9 5.2 32.4-5.8c8.2-11 5.2-25.9-5.8-33.3l-85.3-56.8v-123.2c0-13.3-10.7-24-24.9-24c-12.4 0-24 10.7-24 24z" />
+</svg>
