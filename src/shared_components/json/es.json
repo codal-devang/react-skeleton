@@ -1,0 +1,6 @@
+{
+  "grid": {
+    "pagerItemsPerPage": "results per page",
+    "pagerInfo": "Viewing {0} - {1} of {2} items"
+  }
+}
